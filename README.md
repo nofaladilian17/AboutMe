@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://naofaladilian17.github.io/naofal.github.io">
-    <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
+    <img src="https://raw.githubusercontent.com/nofaladilian17/AboutMe/963517c9e2c74cfd0c5781ff57c64efb6f8e189e/SS.JPG" alt="Preview" width="60%"/>
   </a>
   <br/>
   <a href="#arifszn"><img src="https://arifszn.netlify.app/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
@@ -35,7 +35,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnggli.github.io/linktree)
+- [Demo](https://nofaladilian17.github.io/AboutMe/)
 
 ## 🚀 Getting started
 
