@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://github.com/nofaladilian17/AboutMe/commits">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/linktree?color=04D361&labelColor=orange">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/linktree?color=orange&labelColor=000000">
   </a>
 </p>
 
