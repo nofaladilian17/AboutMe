@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <a href="https://naofaladilian17.github.io/naofal.github.io">
+  <a href="https://nofaladilian17.github.io/AboutMe/">
     <img src="https://raw.githubusercontent.com/nofaladilian17/AboutMe/963517c9e2c74cfd0c5781ff57c64efb6f8e189e/SS.JPG" alt="Preview" width="60%"/>
   </a>
   <br/>
