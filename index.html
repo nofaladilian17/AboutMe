@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
 
-  <body>
+  <body onload="increasePageViews()">
     <!-- Parallax Pixel Background Animation -->
     <section class="animated-background">
       <div id="stars1"></div>
@@ -35,6 +35,7 @@
         <div class="popup-quote">
           Keep fighting and stay focused on the goals you want to achieve, and don't forget to pray.
         </div>
+         <i class="fa fa-eye" aria-hidden="true"></i> <span id="viewCount">0</span>
         <a class="popup-close" onclick="history.back()">&times;</a>
       </div>
     </div>
