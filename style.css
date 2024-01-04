@@ -16,7 +16,8 @@ body {
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
     background: linear-gradient(45deg, #8e44ad, #ad0b92);
     animation: slideBackground 10s linear infinite;
-    background-image: url("kimetsu.jpg"); 
+    background-image: url("kimetsu.jpg");
+     background-position: center;
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
