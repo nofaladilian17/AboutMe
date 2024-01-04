@@ -1,4 +1,4 @@
-const words = ['Be Strong Never Surrneder','Trust Yourself','Keep Moving And Focus'];
+const words = ['Be Strong Never Surrender','Trust Yourself','Keep Moving And Focus'];
 let currentIndex = 0;
 
 function displayWord(){
